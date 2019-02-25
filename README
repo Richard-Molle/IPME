@@ -3,6 +3,15 @@ test de modification GitHub Héloïse
 test francois
 modif val
 modif lucas
+MASTER
+CONFLIT
 test christophe
 RG is up !
-System.out.print("Java was here")
+MASTER
+CONFLIT
+test de Héloïse **
+test francois ***
+modif val ****
+
+MASTER
+CONFLIT
