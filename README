@@ -12,6 +12,6 @@ CONFLIT
 test de Héloïse **
 test francois ***
 modif val ****
-
+System.out.print("Java was here")
 MASTER
 CONFLIT
